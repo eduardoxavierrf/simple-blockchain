@@ -1,0 +1,4 @@
+src/classes/__pychache__/*
+src/classes/__pycache__/__init__.cpython-38.pyc
+src/classes/__pycache__/block.cpython-38.pyc
+src/classes/__pycache__/blockchain.cpython-38.pyc
